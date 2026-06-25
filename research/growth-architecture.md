@@ -1,4 +1,4 @@
-# Applied Case Study: 100Hires Growth Plan
+# Growth Architecture (Case-Study): 100Hires Growth Plan
 Applying the research from my 10-expert repository to 100Hires.
 
 ### The Objective

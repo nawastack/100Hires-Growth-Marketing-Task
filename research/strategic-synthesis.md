@@ -1,4 +1,4 @@
-# Patterns & Tensions: Growth Strategy for B2B SaaS
+# Strategic Synthesis: Growth Strategy for B2B SaaS
 I analyzed 10 high-signal experts across demand generation, content strategy, PR, conversion, and behavioral science. This is my synthesis of their combined wisdom.
 
 ### 1. The Consensus (Patterns)
