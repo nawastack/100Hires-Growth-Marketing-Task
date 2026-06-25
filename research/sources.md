@@ -35,3 +35,17 @@
 * **Why Selected:** Amir provides the tactical execution layer of the research. He tests AI models (Claude vs. ChatGPT) on identical briefs to derive actionable performance data. His work offers specific frameworks for constraint-based prompting and reading-level optimization, which directly impact SaaS conversion rates.
 * **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/amiralicopy/) *(Note: grab his exact URL later)*
   * Newsletter/Article: "The SaaS Copywriter's Dirty Secret: Your AI Tool Isn't the Problem. Your Brief Is."
+
+## 6. George Coudounaris
+* **Role:** Co-Founder at The B2B Playbook
+* **Focus Area:** Demand Generation Systems, Revenue Alignment, Paid Media Architecture
+* **Why Selected:** George operates on a "practitioners, not theorists" model. He provides a granular, repeatable "5 BEs" system for B2B demand gen, focusing on paid media architecture that amplifies content rather than replacing it. His insights are validated by extensive tactical podcast episodes.
+* **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/george-coudounaris/)
+  * Playbook: "The 5 BEs Framework™ for B2B Revenue."
+
+## 7. Stijn Hendrikse
+* **Role:** Co-Founder at Kalungi
+* **Focus Area:** SaaS Go-to-Market Strategy, Category Design, Growth Systems
+* **Why Selected:** Stijn is the author of the "T2D3" framework (Target, Traction, 3x-2x-2x-2x), a proven methodology for scaling B2B SaaS. His approach is deeply structural, helping companies replace "marketing by guessing" with a repeatable engine for pipeline growth.
+* **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/stijnhendrikse/)
+  * Playbook: "T2D3: Growth & Scaling Playbook for B2B SaaS."
