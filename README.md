@@ -1,4 +1,7 @@
 # 100Hires-Growth-Marketing-Task
+
+Note on Structure: The repository is organized according to the specified technical rubric, with strategic deep-dives and synthesis housed in the /research/other/ directory for streamlined navigation.
+
 # Growth Marketing Research Portfolio: 100Hires
 This repository contains a curated research portfolio on B2B SaaS growth marketing. My goal for this project was to move beyond generic "best practices" and identify actionable, operator-led playbooks that can scale an AI-native recruiting platform.
 
