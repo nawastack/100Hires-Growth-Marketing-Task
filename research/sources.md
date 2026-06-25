@@ -14,3 +14,10 @@
 * **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/danielsaks/) 
   * Post/Article: "Venture capital for SaaS is dead... Build it AI-native by design."
   * Industry Report: "Demand Generation in 2026: What Changed and What Still Works"
+
+## 3. Shaun Weston
+* **Role:** Content Leadership at Sorted Group
+* **Focus Area:** B2B SaaS Content Strategy, LinkedIn Organic Execution, Content Calendars
+* **Why Selected:** Shaun represents the tactical, in-house content leadership perspective. Backed by extensive industry experience and featured articles, he provides transparent, actionable breakdowns of how B2B SaaS companies actually structure their content calendars and write high-converting posts on the ground floor.
+* **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/shaun-weston/) *(Note: grab his exact URL later)*
+  * Post/Article: Breakdowns of B2B SaaS post structures and content calendar execution.
