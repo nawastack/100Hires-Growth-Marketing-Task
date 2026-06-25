@@ -49,3 +49,10 @@
 * **Why Selected:** Stijn is the author of the "T2D3" framework (Target, Traction, 3x-2x-2x-2x), a proven methodology for scaling B2B SaaS. His approach is deeply structural, helping companies replace "marketing by guessing" with a repeatable engine for pipeline growth.
 * **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/stijnhendrikse/)
   * Playbook: "T2D3: Growth & Scaling Playbook for B2B SaaS."
+
+## 8. Yury Larichev
+* **Role:** Fractional SaaS CRO | Ex-Microsoft, Acronis
+* **Focus Area:** CLG as a Revenue Engine, Pipeline Conversion, SaaS Growth Architecture
+* **Why Selected:** Unlike pure community operators who focus on engagement, Yury analyzes community from a revenue-first perspective. He provides the "Pipeline Engine" playbook, specifically addressing the reality of sub-$10M ARR companies where outbound is decaying and community offers better CAC efficiency and conversion velocity.
+* **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/yurylarichev/)
+  * PDF Report/Guide: "Community-Led Growth: Building a Pipeline Engine Around Your SaaS Community"
