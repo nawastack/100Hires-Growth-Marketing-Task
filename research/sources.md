@@ -56,3 +56,17 @@
 * **Why Selected:** Unlike pure community operators who focus on engagement, Yury analyzes community from a revenue-first perspective. He provides the "Pipeline Engine" playbook, specifically addressing the reality of sub-$10M ARR companies where outbound is decaying and community offers better CAC efficiency and conversion velocity.
 * **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/yurylarichev/)
   * PDF Report/Guide: "Community-Led Growth: Building a Pipeline Engine Around Your SaaS Community"
+
+## 9. Vivek Nair
+* **Role:** Conversion Strategist & Founder, Forge & Unfiltered
+* **Focus Area:** Conversion Rate Optimization (CRO), Pricing Strategy, Psychological UX
+* **Why Selected:** Vivek focuses on the "highest-stakes conversion moment"—the pricing page. He challenges the standard assumption that homepage design is the bottleneck, proving that founders often neglect the pricing page, which is the moment of maximum intent. His teardowns are research-backed, opinionated, and revenue-focused.
+* **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/vivek-nair-/)
+  * Newsletter: "Your pricing page is not a formality. It is your highest-stakes conversion moment."
+
+## 10. Nancy Harhut
+* **Role:** Co-Founder & Chief Creative Officer at HBT Marketing
+* **Focus Area:** Behavioral Science, Decision Architecture, Psychological Triggers in B2B
+* **Why Selected:** Nancy provides the "X-Factor" by applying behavioral science to B2B growth. She explains how B2B buyers operate on "autopilot" and how to use specific cognitive biases to nudge them toward action. She proves that even in B2B, marketing is a discipline of psychology, not just data.
+* **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/nancyharhut/)
+  * Core Framework: Using Behavioral Science in Marketing (Decision Architecture).
