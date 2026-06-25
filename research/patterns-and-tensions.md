@@ -1,12 +1,14 @@
-# Patterns & Tensions: LinkedIn Growth Strategy
-I analyzed 10 experts across content strategy, PR, SEO, and behavioral science. Here is what I learned.
+# Patterns & Tensions: Growth Strategy for B2B SaaS
+I analyzed 10 high-signal experts across demand generation, content strategy, PR, conversion, and behavioral science. This is my synthesis of their combined wisdom.
 
 ### 1. The Consensus (Patterns)
-* [Write 1-2 sentences here: What do they all agree on? E.g., The "spray-and-pray" outbound model is dead.]
-* [Write 1-2 sentences here: What is the new baseline? E.g., B2B buyers now trust peers/practitioners more than SDRs.]
+* **The "Outbound" Decay:** Every expert agrees that the era of "spray-and-pray" SDR outbound is dying. Generic emails are no longer just annoying; they are a negative signal that destroys brand trust.
+* **Trust as the New Moat:** Whether it is Daniel Saks' "Digital Trust" or Yury Larichev's "Pipeline Engine," the consensus is that buyers trust practitioner-to-practitioner advice more than vendor marketing.
+* **AI-Efficiency:** The baseline expectation for 2026 is that marketing teams use AI to automate the *grunt work* of data enrichment and copy generation, allowing humans to focus purely on strategic differentiation.
 
 ### 2. The Tensions (Disagreements)
-* [Write 1-2 sentences here: Where do they clash? E.g., Some experts (like George Coudounaris) advocate for Paid Media amplification, while others (like Stijn Hendrikse) focus on organic compounding.]
+* **Paid Media vs. Organic Compounding:** George Coudounaris argues that paid media architecture is required to amplify content (speed/scale), whereas Stijn Hendrikse and Vlad White argue for the long-term, compounding endurance of organic PR/SEO and category design (trust/moat).
+* **AI Speed vs. Human "Vibe":** There is a tension between experts like Amir Ali (who pushes for AI-driven conversion optimization) and Nancy Harhut (who reminds us that buying is a psychological process driven by human biases that AI sometimes strips out).
 
 ### 3. The "Gap" (My Unique Insight)
-* [Write 2-3 sentences: What are they all missing? This is your "X-Factor." E.g., Most are great at strategy, but few bridge the gap between "high-level category design" and "daily AI-prompt workflows."]
+* **The Support-Marketing Loop:** While my experts are world-class at acquisition, there is a lack of focus on the feedback loop between Customer Success and Marketing. The experts focus on how to *get* the lead, but the true growth "X-Factor" for 100Hires should be using the questions/objections found in customer support to fuel the content strategy—turning service touchpoints into high-conversion content.
