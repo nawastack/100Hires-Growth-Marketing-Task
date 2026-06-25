@@ -4,7 +4,7 @@
 * **Role:** Founder and CEO at Revv Growth 
 * **Focus Area:** Full-funnel B2B SaaS marketing, Demand Generation, ABM
 * **Why Selected:** Karthick is a current agency founder who provides highly structured, framework-driven content. He backs his methodologies with concrete client data, demonstrating an ability to drive tangible pipeline growth rather than just engagement metrics.
-* **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/karthickraajha/) *(Note: you can grab his actual URL later)*
+* **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/karthickraajha/)
   * Post/Article: "How to Generate Qualified Leads for B2B SaaS"
 
 ## 2. Daniel Saks
@@ -19,28 +19,28 @@
 * **Role:** Content Leadership at Sorted Group
 * **Focus Area:** B2B SaaS Content Strategy, LinkedIn Organic Execution, Content Calendars
 * **Why Selected:** Shaun represents the tactical, in-house content leadership perspective. Backed by extensive industry experience and featured articles, he provides transparent, actionable breakdowns of how B2B SaaS companies actually structure their content calendars and write high-converting posts on the ground floor.
-* **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/shaun-weston/) *(Note: grab his exact URL later)*
+* **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/shaunweston1)
   * Post/Article: Breakdowns of B2B SaaS post structures and content calendar execution.
 
 ## 4. Vlad White
 * **Role:** Head of Global Marketing, PR, & Communications at iSpring Solutions (Former Head of Global PR at Serpzilla)
 * **Focus Area:** Global B2B SaaS Expansion, Digital PR + SEO Flywheel, Influencer-Led Growth
 * **Why Selected:** Vlad provides a highly analytical, data-backed approach to scaling B2B SaaS organic growth. His published case studies break down the exact mechanics of combining LinkedIn influencer PR with SEO content to drive massive, measurable pipeline growth (e.g., a 939% increase in leads for Serpzilla). He focuses on the critical intersection of community trust and organic search.
-* **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/vlad-white/) 
+* **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/vladwhite717) 
   * Case Study: "Taking Serpzilla Global: How we used PR and SEO to launch a B2B SaaS product"
 
 ## 5. Amir Ali
 * **Role:** Conversion Copywriter & SEO Expert at Clienvora
 * **Focus Area:** AI-Powered Conversion Copywriting, SaaS Landing Page Optimization, Prompt Engineering
 * **Why Selected:** Amir provides the tactical execution layer of the research. He tests AI models (Claude vs. ChatGPT) on identical briefs to derive actionable performance data. His work offers specific frameworks for constraint-based prompting and reading-level optimization, which directly impact SaaS conversion rates.
-* **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/amiralicopy/) *(Note: grab his exact URL later)*
+* **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/amir-ali-copywriter) 
   * Newsletter/Article: "The SaaS Copywriter's Dirty Secret: Your AI Tool Isn't the Problem. Your Brief Is."
 
 ## 6. George Coudounaris
 * **Role:** Co-Founder at The B2B Playbook
 * **Focus Area:** Demand Generation Systems, Revenue Alignment, Paid Media Architecture
 * **Why Selected:** George operates on a "practitioners, not theorists" model. He provides a granular, repeatable "5 BEs" system for B2B demand gen, focusing on paid media architecture that amplifies content rather than replacing it. His insights are validated by extensive tactical podcast episodes.
-* **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/george-coudounaris/)
+* **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/b2b-marketing-expert)
   * Playbook: "The 5 BEs Framework™ for B2B Revenue."
 
 ## 7. Stijn Hendrikse
@@ -61,7 +61,7 @@
 * **Role:** Conversion Strategist & Founder, Forge & Unfiltered
 * **Focus Area:** Conversion Rate Optimization (CRO), Pricing Strategy, Psychological UX
 * **Why Selected:** Vivek focuses on the "highest-stakes conversion moment"—the pricing page. He challenges the standard assumption that homepage design is the bottleneck, proving that founders often neglect the pricing page, which is the moment of maximum intent. His teardowns are research-backed, opinionated, and revenue-focused.
-* **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/vivek-nair-/)
+* **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/viveknairs)
   * Newsletter: "Your pricing page is not a formality. It is your highest-stakes conversion moment."
 
 ## 10. Nancy Harhut
