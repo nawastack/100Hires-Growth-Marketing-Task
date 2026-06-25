@@ -21,3 +21,10 @@
 * **Why Selected:** Shaun represents the tactical, in-house content leadership perspective. Backed by extensive industry experience and featured articles, he provides transparent, actionable breakdowns of how B2B SaaS companies actually structure their content calendars and write high-converting posts on the ground floor.
 * **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/shaun-weston/) *(Note: grab his exact URL later)*
   * Post/Article: Breakdowns of B2B SaaS post structures and content calendar execution.
+
+## 4. Vlad White
+* **Role:** Head of Global Marketing, PR, & Communications at iSpring Solutions (Former Head of Global PR at Serpzilla)
+* **Focus Area:** Global B2B SaaS Expansion, Digital PR + SEO Flywheel, Influencer-Led Growth
+* **Why Selected:** Vlad provides a highly analytical, data-backed approach to scaling B2B SaaS organic growth. His published case studies break down the exact mechanics of combining LinkedIn influencer PR with SEO content to drive massive, measurable pipeline growth (e.g., a 939% increase in leads for Serpzilla). He focuses on the critical intersection of community trust and organic search.
+* **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/vlad-white/) 
+  * Case Study: "Taking Serpzilla Global: How we used PR and SEO to launch a B2B SaaS product"
