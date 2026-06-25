@@ -1,8 +1,6 @@
 # 100Hires-Growth-Marketing-Task
 Portfolio project for the 100Hires Junior Growth Marketing Specialist technical assessment.
 
-# 100Hires Growth Marketing Task
-
 ## What tools I installed:
 * Cursor IDE
 * Claude Code (Cursor Extension)
