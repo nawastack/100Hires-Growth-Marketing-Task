@@ -28,3 +28,10 @@
 * **Why Selected:** Vlad provides a highly analytical, data-backed approach to scaling B2B SaaS organic growth. His published case studies break down the exact mechanics of combining LinkedIn influencer PR with SEO content to drive massive, measurable pipeline growth (e.g., a 939% increase in leads for Serpzilla). He focuses on the critical intersection of community trust and organic search.
 * **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/vlad-white/) 
   * Case Study: "Taking Serpzilla Global: How we used PR and SEO to launch a B2B SaaS product"
+
+## 5. Amir Ali
+* **Role:** Conversion Copywriter & SEO Expert at Clienvora
+* **Focus Area:** AI-Powered Conversion Copywriting, SaaS Landing Page Optimization, Prompt Engineering
+* **Why Selected:** Amir provides the tactical execution layer of the research. He tests AI models (Claude vs. ChatGPT) on identical briefs to derive actionable performance data. His work offers specific frameworks for constraint-based prompting and reading-level optimization, which directly impact SaaS conversion rates.
+* **Key Content / Links:** * [LinkedIn Profile](https://www.linkedin.com/in/amiralicopy/) *(Note: grab his exact URL later)*
+  * Newsletter/Article: "The SaaS Copywriter's Dirty Secret: Your AI Tool Isn't the Problem. Your Brief Is."
